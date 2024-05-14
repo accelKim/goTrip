@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goTrip/static/css/main.0c44ca2a.css",
+    "main.js": "/goTrip/static/js/main.6a6578c3.js",
+    "index.html": "/goTrip/index.html",
+    "main.0c44ca2a.css.map": "/goTrip/static/css/main.0c44ca2a.css.map",
+    "main.6a6578c3.js.map": "/goTrip/static/js/main.6a6578c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c44ca2a.css",
+    "static/js/main.6a6578c3.js"
+  ]
+}
